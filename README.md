@@ -14,6 +14,7 @@
 
 ---
 
-## ⚠️ IMPORTANT: Before You Begin
+## ⚠️ IMPORTANT: Before You Begin the integration of this tool in your project
 
-> **📌 CRITICAL STEP: FOLLOW INSTRUCTIONS GIVEN IN COMMENTS in server-tools.py
+> **📌 CRITICAL STEP:
+FOLLOW INSTRUCTIONS GIVEN IN COMMENTS in server-tools.py
